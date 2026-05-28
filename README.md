@@ -30,7 +30,7 @@ Go to project directory:
 
 ```bash
 cd autodeployx
-```
+``
 
 Create virtual environment:
 
